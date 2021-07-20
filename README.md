@@ -1,6 +1,7 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Deploying a React App* to GitHub Pages
+
+You can visit @ [https://edwardantony.github.io/media-suite-design/](https://edwardantony.github.io/media-suite-design/)
 
 ## Available Scripts
 
