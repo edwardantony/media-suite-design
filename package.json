@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/edwardantony/media-suite-design",
+  "homepage": "https://github.com/edwardantony/media-suite-design-app",
   "name": "media-suite-design",
   "version": "0.1.0",
   "private": true,
@@ -28,7 +28,6 @@
   },
   "browserslist": [
     ">0.2%",
-    "not dead",
     "not ie <= 11",
     "not op_mini all"
   ],
